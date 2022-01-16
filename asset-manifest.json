@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AY-BAMZ/FinTrack.git/static/css/main.ad8f8753.css",
+    "main.js": "/AY-BAMZ/FinTrack.git/static/js/main.e89907bc.js",
+    "index.html": "/AY-BAMZ/FinTrack.git/index.html",
+    "main.ad8f8753.css.map": "/AY-BAMZ/FinTrack.git/static/css/main.ad8f8753.css.map",
+    "main.e89907bc.js.map": "/AY-BAMZ/FinTrack.git/static/js/main.e89907bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad8f8753.css",
+    "static/js/main.e89907bc.js"
+  ]
+}
